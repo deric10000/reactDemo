@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"c:\users\deric\documents\visual studio 2015\Projects\ReactDemo\src\ReactDemo\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"c:\users\deric\documents\visual studio 2015\Projects\ReactDemo\src\ReactDemo\bin\Debug\netcoreapp1.0\ReactDemo.dll"
+"C:\Users\Deric\Documents\Visual Studio 2015\Projects\ReactDemo\src\ReactDemo\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Deric\Documents\Visual Studio 2015\Projects\ReactDemo\src\ReactDemo\bin\Debug\netcoreapp1.0\ReactDemo.dll"
 -r:"C:\Users\Deric\.nuget\packages\JavaScriptEngineSwitcher.ChakraCore\2.0.0\lib\netstandard1.3\JavaScriptEngineSwitcher.ChakraCore.dll"
 -r:"C:\Users\Deric\.nuget\packages\JavaScriptEngineSwitcher.Core\2.0.0\lib\netstandard1.3\JavaScriptEngineSwitcher.Core.dll"
 -r:"C:\Users\Deric\.nuget\packages\JavaScriptEngineSwitcher.Msie\2.0.0\lib\netstandard1.3\JavaScriptEngineSwitcher.Msie.dll"
@@ -201,7 +201,7 @@
 -r:"C:\Users\Deric\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Deric\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
 -r:"C:\Users\Deric\.nuget\packages\VroomJs\1.2.3\lib\netstandard1.6\VroomJs.dll"
--resource:"c:\users\deric\documents\visual studio 2015\Projects\ReactDemo\src\ReactDemo\obj\Debug\netcoreapp1.0\ReactDemodotnet-compile.deps.json",ReactDemo.deps.json
-"c:\users\deric\documents\visual studio 2015\Projects\ReactDemo\src\ReactDemo\Program.cs"
-"c:\users\deric\documents\visual studio 2015\Projects\ReactDemo\src\ReactDemo\Startup.cs"
-"c:\users\deric\documents\visual studio 2015\Projects\ReactDemo\src\ReactDemo\Controllers\HomeController.cs"
+-resource:"C:\Users\Deric\Documents\Visual Studio 2015\Projects\ReactDemo\src\ReactDemo\obj\Debug\netcoreapp1.0\ReactDemodotnet-compile.deps.json",ReactDemo.deps.json
+"C:\Users\Deric\Documents\Visual Studio 2015\Projects\ReactDemo\src\ReactDemo\Program.cs"
+"C:\Users\Deric\Documents\Visual Studio 2015\Projects\ReactDemo\src\ReactDemo\Startup.cs"
+"C:\Users\Deric\Documents\Visual Studio 2015\Projects\ReactDemo\src\ReactDemo\Controllers\HomeController.cs"
